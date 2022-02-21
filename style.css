@@ -1,0 +1,33 @@
+body{
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          background: turquoise;
+
+}
+
+.header_div p{
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+          ;
+          color: red;
+          letter-spacing: 2px;
+          font-size: 18px;
+          font-weight: bolder;
+}
+
+.main_div button{
+font-family: 'Courier New', Courier, monospace;
+margin-top: 30px;
+width: 130px;
+font-size: 12px;
+font-weight: bold;
+}
+.copy_right_footer {
+          position: fixed;
+          color: gold;
+          bottom: 0;
+          width: 100%;
+          font-size: 18px;
+          background-color: rgb(32, 32, 38);
+          line-height: 3;
+          text-align: center;
+          text-shadow: 5px 5px 5px red(151,149,149);
+}
